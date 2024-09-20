@@ -13,4 +13,9 @@ Brunel University London – London, United Kingdom
 
 ====================================================================================================================================
 
-
+<p align="center">
+  <img alt=alt="fall detection demo1 gif" src="Gif_long.gif" height="450" width="450">
+  
+  <br>
+    <em></em>
+</p>
