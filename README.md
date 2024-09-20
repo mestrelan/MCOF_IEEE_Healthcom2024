@@ -14,4 +14,3 @@ Brunel University London – London, United Kingdom
 ====================================================================================================================================
 
 
-he paper Motion and Region Aware Adversarial Learning for Fall Detection with Thermal Imaging by Vineet Mehta, Abhinav Dhall, Sujata Pal and Shehroz S. Khan.
