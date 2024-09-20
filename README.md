@@ -11,11 +11,19 @@ Universidade Federal Fluminense – Niter´oi, RJ – Brazil
 Brunel University London – London, United Kingdom
 {allans, kp, nataliacf}@id.uff.br, {laffernandes, marcosbedo, debora}@ic.uff.br, george.ghinea@brunel.ac.uk
 
-====================================================================================================================================
+=========================================================================================
 
 <p align="center">
   <img alt=alt="fall detection demo1 gif" src="Gif_long.gif">
   
   <br>
-    <em></em>
+    <em>Fall Detection Module</em>
 </p>
+
+
+
+=========================================================================================
+
+ [“As the Father has loved me, so have I loved you. Now remain in my love. 10If you keep my commands, you will remain in my love, just as I have kept my Father’s commands and remain in his love. 11I have told you this so that my joy may be in you and that your joy may be complete. 12My command is this: Love each other as I have loved you. 13Greater love has no one than this: to lay down one’s life for one’s friends. John 15:9-13](https://www.bible.com/bible/111/JHN.15.NIV)
+
+ https://allancostans.blogspot.com/
