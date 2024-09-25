@@ -27,7 +27,6 @@ To run the fall detector:
 2- Run the fallDetection.py file.
 
 =========================================================================================
-Projects:
 
 - Application of filters, motion detector and BGS (Background Subtractor).
 
