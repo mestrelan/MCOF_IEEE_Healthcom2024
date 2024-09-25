@@ -27,6 +27,29 @@ To run the fall detector:
 2- Run the fallDetection.py file.
 
 =========================================================================================
+Projects:
+
+- Application of filters, motion detector and BGS (Background Subtractor).
+
+- Object and Animal Detection
+
+- Person Detector and Body Points Detector
+
+- Access and process the camera stream with OpenCV and send it to the browser via HTTP.
+
+To run:
+
+    In the line of code:
+    
+    ap.add_argument("-i", "--ip", type=str, required=False, default='192.168.47.147',
+          help="ip address of the device")
+    
+    Replace the IP with the IP of the machine you are using. To find out the IP use the command ipconfig (in Windows) or ifconfig (in Linux).
+    
+Run the BGSyoloOP1.py file.    
+
+
+=========================================================================================
 
  [“As the Father has loved me, so have I loved you. Now remain in my love. 10If you keep my commands, you will remain in my love, just as I have kept my Father’s commands and remain in his love. 11I have told you this so that my joy may be in you and that your joy may be complete. 12My command is this: Love each other as I have loved you. 13Greater love has no one than this: to lay down one’s life for one’s friends. John 15:9-13](https://www.bible.com/bible/111/JHN.15.NIV)
 
