@@ -20,7 +20,9 @@ Brunel University London – London, United Kingdom
     <em>Fall Detection Module</em>
 </p>
 
-
+To run the fall detector:
+1- Download GitHub repository.
+2- Run the fallDetection.py file.
 
 =========================================================================================
 
